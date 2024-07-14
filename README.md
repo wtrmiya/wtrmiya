@@ -53,6 +53,10 @@
 
 ## Sample Project1: NewsApp
 
+<img width="300" src="https://github.com/user-attachments/assets/b82c4d68-7ebd-4be2-a843-220731aa5601">
+<img width="300" src="https://github.com/user-attachments/assets/62410fa8-bf2e-48e6-9602-c9ba593d0228">
+<img width="300" src="https://github.com/user-attachments/assets/44927690-f36b-4e15-b923-8b7d3e81bd81">
+
 ### URL
 https://github.com/wtrmiya/NewsApp
 
