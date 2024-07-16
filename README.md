@@ -83,6 +83,13 @@ https://github.com/wtrmiya/NewsApp
 - トーストによる操作結果通知
 
 
+## Other Sample Projects
+### LaunchPractice
+#### Summary
+UIKitおよび、SwiftUIベースで作成したiOSアプリプロジェクトのそれぞれについて、AppDelegate、SceneDelegate有無におけるデリゲートメソッドの実行順序を調査した。
+
+#### URL
+https://github.com/wtrmiya/LaunchPractice
 
 
 
