@@ -82,6 +82,29 @@ https://github.com/wtrmiya/NewsApp
 - Gitへのシークレット情報登録除外(API key、Firebase設定ファイル)
 - トーストによる操作結果通知
 
+## Sample Project2: 最近の飲みかた - DrinkingLog
+
+![drinkingLog_1](https://github.com/user-attachments/assets/28e60d2a-7e9f-45f6-b001-341622e27b71)
+![drinkingLog_2](https://github.com/user-attachments/assets/38b3b05e-8f6f-41fe-8772-172eb56a8d4b)
+![drinkingLog_3](https://github.com/user-attachments/assets/053498b8-7950-4dc3-934f-945bfad1e153)
+
+### URL
+https://apps.apple.com/jp/app/%E6%9C%80%E8%BF%91%E3%81%AE%E9%A3%B2%E3%81%BF%E3%81%8B%E3%81%9F/id1670227819
+
+iOSのみ利用可能
+
+### AppStore
+https://github.com/wtrmiya/NewsApp
+
+### 概要
+ライフログ系サンプルプロジェクト
+
+
+### 仕様・考慮点
+- App Storeへのリリース作業内容確認を目的とする
+- Realmによる永続化対応
+- 日本語・英語の国際化対応
+- Firebase Crashlytics
 
 ## Other Sample Projects
 ### LaunchPractice
